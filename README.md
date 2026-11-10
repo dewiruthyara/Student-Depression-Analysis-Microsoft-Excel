@@ -66,7 +66,7 @@ Displays student lifestyle characteristics, including sleep duration, dietary ha
 
 Explores the distribution of depression and its association with other mental health indicators, including suicidal thoughts and family history of mental illness.
 
-![Student Depression Analysis Dashboard](https://github.com/user-attachments/assets/04f6616c-f34e-4c98-bb4d-e9e3bfca3300
+![Student Depression Analysis Dashboard](https://github.com/user-attachments/assets/a6f92853-702f-4dee-a788-b5991c3b0685
 )
 
 ## 5. Key Insights
